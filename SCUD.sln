@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30717.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SCUD", "SCUD.csproj", "{6E45D9A4-B332-4670-895D-347B7A0A256B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6E45D9A4-B332-4670-895D-347B7A0A256B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6E45D9A4-B332-4670-895D-347B7A0A256B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6E45D9A4-B332-4670-895D-347B7A0A256B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6E45D9A4-B332-4670-895D-347B7A0A256B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0C0D9171-CC4B-4BF2-9A63-0D83961DDEC2}
+	EndGlobalSection
+EndGlobal
